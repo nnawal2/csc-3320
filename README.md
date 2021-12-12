@@ -1,8 +1,9 @@
-######################################################################################
-# Name: Nafisa Nawal                                                                 #
-# CSC3320                                                                            #
-# To run any code (C programs or Shell program) use the Readme instructions         #
-######################################################################################
+##################################################################################################################
+# Name: Nafisa Nawal                                                                                             #
+# CSC3320                                                                                                        #
+# To run any code (C programs or Shell program) use the Readme instructions                                      #
+# The csc-3320 folder contains all code from beginning of the semester including exams, homework, and labs.      #
+##################################################################################################################
 
 To run .c files, please follow the instructions
 
